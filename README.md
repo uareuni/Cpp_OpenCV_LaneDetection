@@ -1,10 +1,10 @@
-Develop period : 2016. 7 (3h) <hr />
-Purpose : Lane Detector <hr />
+Develop period : 2016. 7 (3h) <br />
+Purpose : Lane Detector <br />
 
-<hr /><hr />
+<hr />
 
 ![original](https://github.com/uareuni/Cpp_OpenCV_LaneDetection/blob/master/detect1.png)
-<hr />
+<br />
 
 ![original](https://github.com/uareuni/Cpp_OpenCV_LaneDetection/blob/master/detect2.png)
 <hr />
